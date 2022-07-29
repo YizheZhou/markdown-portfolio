@@ -1,1 +1,13 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+# Skills
+* *R*
+* *Python*
+
+
+# Soft Skills
+
+* *Inclusiveness*
+* _Mindfulness_
+* **Empathetic**
+* __Attentative__
+
+_You **can** combine them_
